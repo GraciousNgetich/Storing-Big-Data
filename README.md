@@ -1,6 +1,6 @@
 # Storing-Big-Data
 This project is divided into two major parts:
-## Establishing an On-Premise Source Connection - This enables organizations to capture data in real-time or near-real-time from their on-premise sources and store it in the cloud.
+### Establishing an On-Premise Source Connection - This enables organizations to capture data in real-time or near-real-time from their on-premise sources and store it in the cloud.
 
 Services I Used:
  1. Aws IAM to manage roles and permissions
@@ -8,7 +8,7 @@ Services I Used:
  3. File Gateway, and NFS File share for seamless data transfer from cloud to on-premise
  4. Cloud Watch Alarms which will trigger when a data transfer over a specified threshold is exceeded.
 
-## Streaming data 
+### Streaming data 
 
 Services I used
  1. DynamoDB as a mock data streaming source
