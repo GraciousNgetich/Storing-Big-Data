@@ -15,6 +15,10 @@ Services I Used:
 
 ### Streaming data 
 
+<div align="center">
+  <img src="https://github.com/GraciousNgetich/Storing-Big-Data/blob/main/streaming.jpeg" width="800px"/>
+</div>
+
 Services I used
  1. DynamoDB as a mock data streaming source
  2. Lambda Script to run and generate new data that can simulate a data stream.
