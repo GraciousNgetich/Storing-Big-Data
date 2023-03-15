@@ -16,7 +16,7 @@ Services I Used:
 ### Streaming data 
 
 <div align="center">
-  <img src="https://github.com/GraciousNgetich/Storing-Big-Data/blob/main/streaming.jpeg" width="800px"/>
+  <img src="https://github.com/GraciousNgetich/Storing-Big-Data/blob/main/streaming.jpg" width="800px"/>
 </div>
 
 Services I used
