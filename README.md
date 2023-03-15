@@ -1,4 +1,9 @@
 # Storing-Big-Data
+
+<div align="center">
+  <img src="https://github.com/GraciousNgetich/GraciousNgetich/blob/main/github.png" width="900" height="400"/>
+</div>
+
 This project is divided into two major parts:
 ### Establishing an On-Premise Source Connection - This enables organizations to capture data in real-time or near-real-time from their on-premise sources and store it in the cloud.
 
