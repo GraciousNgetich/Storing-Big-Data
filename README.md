@@ -1,7 +1,7 @@
 # Storing-Big-Data
 
 <div align="center">
-  <img src="https://github.com/GraciousNgetich/Storing-Big-Data/blob/main/on-premise.png" width="900" height="400"/>
+  <img src="https://github.com/GraciousNgetich/Storing-Big-Data/blob/main/on-premise.png" width="800px"/>
 </div>
 
 This project is divided into two major parts:
